@@ -1,0 +1,29 @@
+.Add {
+    width: 80%;
+    background-color: #d3e0ea;
+    padding: 15px;
+    margin: auto;
+    border-radius: 5px;
+    text-align: left;
+
+}
+
+.submit {
+    text-align: right;
+}
+.submit input {
+    border: 0;
+    padding: 10px 30px;
+    background-color: #FC9918;
+    color: white;
+    margin: 5px;
+    border-radius: 4px;
+}
+.submit input:disabled {
+    opacity: .3;
+    cursor: not-allowed;
+}
+.submit input:focus,
+.submit input:hover {
+    background-color: #F14A16;
+}
