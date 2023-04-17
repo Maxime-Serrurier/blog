@@ -9,11 +9,12 @@
     border: 0;
     padding: 5px 10px;
     cursor: pointer;
-    transition: .3s;
-    background-color: #FC9918;
+    transition: 0.3s;
+    background-color: #006dcd;
     color: white;
+    border-radius: 1rem;
 }
 
 .logout:hover {
-    background-color: #F14A16;
+    opacity: 0.8;
 }

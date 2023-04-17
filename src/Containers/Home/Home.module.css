@@ -5,9 +5,9 @@
 .mainLink a {
     text-decoration: none;
     margin-right: 15px;
-    color: #FC9918;
+    color: white;
 }
 
 .mainLink a:hover {
-    color: #F14A16;
+    color: #232323;
 }

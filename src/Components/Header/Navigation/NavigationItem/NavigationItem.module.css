@@ -4,11 +4,11 @@
 
 .NavigationItem a {
     text-decoration: none;
-    color: #000B49;
+    color: white;
 }
 
 .NavigationItem a:hover,
 .NavigationItem a:focus,
 .NavigationItem a.active {
-    color: #ffb72b;
+    color: #8ac4e2;
 }

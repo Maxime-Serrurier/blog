@@ -1,7 +1,7 @@
 .form {
     width: 80%;
     max-width: 400px;
-    background-color: #d3e0ea;
+    background-color: white;
     padding: 15px;
     margin: auto;
     border-radius: 5px;
@@ -11,18 +11,18 @@
 .button {
     border: 0;
     padding: 10px 30px;
-    background-color: #FC9918;
+    background-color: #006dcd;
     color: white;
     margin: 5px;
     border-radius: 4px;
 }
 .button:disabled {
-    opacity: .3;
+    opacity: 0.3;
     cursor: not-allowed;
 }
 .button:focus,
 .button:hover {
-    background-color: #F14A16;
+    opacity: 0.8;
 }
 .buttons {
     text-align: right;

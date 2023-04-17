@@ -1,6 +1,7 @@
 .Footer {
-    background-color: #f1f1f1;
+    background-color: #232323;
     padding: 20px;
-    font-size: .9rem;
+    font-size: 0.9rem;
     margin-top: 40px;
+    color: white;
 }

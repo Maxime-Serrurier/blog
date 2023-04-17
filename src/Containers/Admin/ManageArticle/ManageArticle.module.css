@@ -5,7 +5,6 @@
     margin: auto;
     border-radius: 5px;
     text-align: left;
-
 }
 
 .submit {
@@ -14,16 +13,16 @@
 .submit input {
     border: 0;
     padding: 10px 30px;
-    background-color: #FC9918;
+    background-color: #006dcd;
     color: white;
     margin: 5px;
     border-radius: 4px;
 }
 .submit input:disabled {
-    opacity: .3;
+    opacity: 0.3;
     cursor: not-allowed;
 }
 .submit input:focus,
 .submit input:hover {
-    background-color: #F14A16;
+    opacity: 0.8;
 }

@@ -1,5 +1,5 @@
 .lead {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, 0.5);
     margin-bottom: 15px;
 }
 
@@ -16,7 +16,7 @@
 
 .author span {
     margin-left: 15px;
-    font-size: .9rem;
+    font-size: 0.9rem;
 }
 
 .date {
@@ -32,7 +32,7 @@
 .button button {
     border: 0;
     padding: 10px 15px;
-    background-color: #FC9918;
+    background-color: #006dcd;
     color: white;
     margin: 5px;
     border-radius: 4px;
@@ -40,11 +40,11 @@
 
 .button button:focus,
 .button button:hover {
-    background-color: #F14A16;
+    opacity: 0.8;
 }
 
 .badge {
-    font-size: .9rem;
+    font-size: 0.9rem;
     background-color: #cccccc;
     color: white;
     border-radius: 4px;
